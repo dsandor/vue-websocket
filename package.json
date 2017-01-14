@@ -73,8 +73,5 @@
     "webpack-dev-middleware": "1.8.3",
     "webpack-dev-server": "1.16.1",
     "webpack-merge": "0.14.1"
-  },
-  "dependencies": {
-    "socket.io-client": "1.5.1"
   }
 }
